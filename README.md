@@ -19,5 +19,5 @@ Java CRUD system for employee management with functionality of:
 * phpMyAdmin
 * io streams
 
-![Screenshot](systemImage.png)
+![](systemImage.PNG)
 
